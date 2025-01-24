@@ -7,3 +7,7 @@
 // undefined = not defined yet 
 // symblo = unique
 console.log(typeof null)
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack(primitive datatypes ) , heap( non-primitive datatypes)
